@@ -1,4 +1,5 @@
 # cloud-itonami-isco-2132
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 2132. This app is not produced, reviewed or endorsed by the ILO.
 
 Open Occupation Blueprint for **ISCO-08 2132**: Farming, Forestry and Fisheries Advisers.
 
